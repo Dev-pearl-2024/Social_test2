@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "SocialTaste",
-    "slug": "SocialTaste",
+    "slug": "socailtaste2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0a7f2bec-be58-4877-badd-c0017be48e67"
+      }
+    },
+    "owner": "dev-pearl-2024"
   }
 }
